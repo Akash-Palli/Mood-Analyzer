@@ -1,5 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
+import os
 import pandas as pd
 from adjustText import adjust_text
 
@@ -156,6 +157,9 @@ def plot_mood_trend(df, output_path="outputs/mood_trend.png", rolling_window=3, 
         )
 
     plt.tight_layout(rect=[0, 0.15, 1, 1])
+    output_dir = os.path.dirname(output_path)
+    if output_dir:
+        os.makedirs(output_dir, exist_ok=True)
     plt.savefig(output_path, dpi=300, bbox_inches="tight")
     plt.close()
     return output_path
