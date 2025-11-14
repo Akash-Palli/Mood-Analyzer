@@ -1,0 +1,17 @@
+[
+  {"date": "2025-10-20", "mood": "happy", "notes": "Morning run and good breakfast"},
+  {"date": "2025-10-21", "mood": "calm", "notes": "Productive workday, felt balanced"},
+  {"date": "2025-10-22", "mood": "anxious", "notes": "Tight deadlines, too many meetings"},
+  {"date": "2025-10-23", "mood": "sad", "notes": "Rainy day, felt low energy"},
+  {"date": "2025-10-24", "mood": "happy", "notes": "Dinner with friends lifted my mood"},
+  {"date": "2025-10-25", "mood": "anxious", "notes": "Late meeting, couldn't sleep"},
+  {"date": "2025-10-26", "mood": "calm", "notes": "Evening walk with family"},
+  {"date": "2025-10-27", "mood": "sad", "notes": "Busy Sunday, felt lonely"},
+  {"date": "2025-10-28", "mood": "happy", "notes": "Great productive day"},
+  {"date": "2025-10-29", "mood": "anxious", "notes": "Workload increased, skipped lunch"},
+  {"date": "2025-10-30", "mood": "calm", "notes": "Meditated in the morning, felt centered"},
+  {"date": "2025-10-31", "mood": "happy", "notes": "Friday night movie and dinner"},
+  {"date": "2025-11-01", "mood": "tired", "notes": "Slept late, feeling drained"},
+  {"date": "2025-11-02", "mood": "anxious", "notes": "Upcoming deadlines creating pressure"},
+  {"date": "2025-11-03", "mood": "happy", "notes": "Completed tasks ahead of time"}
+]

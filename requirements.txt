@@ -1,0 +1,11 @@
+matplotlib
+pandas
+numpy
+scikit-learn
+openai
+sentence-transformers
+pytest
+notebook
+ipywidgets
+seaborn
+adjustText
